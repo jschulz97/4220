@@ -1,0 +1,1 @@
+g++ -o historian historian.cpp -lpthread -lsqlite3

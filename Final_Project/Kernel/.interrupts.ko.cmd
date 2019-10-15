@@ -1,0 +1,1 @@
+cmd_/home/pi/git/4220FinalProject/Kernel/interrupts.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/git/4220FinalProject/Kernel/interrupts.ko /home/pi/git/4220FinalProject/Kernel/interrupts.o /home/pi/git/4220FinalProject/Kernel/interrupts.mod.o
